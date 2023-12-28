@@ -1,0 +1,6 @@
+Installation and Prerequisites:
+Nodejs should be installed
+Visual Studio Code should be installed
+
+To run the project on the terminal use the below command:
+node readWriteJson.js
